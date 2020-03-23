@@ -12,6 +12,7 @@ public class BubbleSort {
                   switchPlaces(tab,i, i+1);
                 }
              }
+            //changed
         }
     }
 }
